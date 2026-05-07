@@ -1,0 +1,1 @@
+print("hello namaku ipan")
